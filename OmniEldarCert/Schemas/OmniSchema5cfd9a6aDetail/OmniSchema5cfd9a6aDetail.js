@@ -1,5 +1,4 @@
-define("OmniSchema5cfd9a6aDetail", ["ConfigurationGrid", "ConfigurationGridGenerator",
-	"ConfigurationGridUtilitiesV2"], function() {
+define("OmniSchema5cfd9a6aDetail", ["ConfigurationGrid", "ConfigurationGridGenerator", "ConfigurationGridUtilitiesV2"], function () {
 	return {
 		entitySchemaName: "OmniTour",
 		attributes: {
@@ -12,59 +11,64 @@ define("OmniSchema5cfd9a6aDetail", ["ConfigurationGrid", "ConfigurationGridGener
 		mixins: {
 			ConfigurationGridUtilities: "Terrasoft.ConfigurationGridUtilitiesV2"
 		},
-		diff: /**SCHEMA_DIFF*/[
+		methods: {
+			init(){
+				this.callParent(arguments);
+			}
+		},
+		diff: /**SCHEMA_DIFF*/ [
 			{
 				"operation": "merge",
 				"name": "DataGrid",
 				"values": {
 					"className": "Terrasoft.ConfigurationGrid",
 					"generator": "ConfigurationGridGenerator.generatePartial",
-					"generateControlsConfig": {"bindTo": "generateActiveRowControlsConfig"},
-					"changeRow": {"bindTo": "changeRow"},
-					"unSelectRow": {"bindTo": "unSelectRow"},
-					"onGridClick": {"bindTo": "onGridClick"},
+					"generateControlsConfig": { "bindTo": "generateActiveRowControlsConfig" },
+					"changeRow": { "bindTo": "changeRow" },
+					"unSelectRow": { "bindTo": "unSelectRow" },
+					"onGridClick": { "bindTo": "onGridClick" },
 					"activeRowActions": [
 						{
 							"className": "Terrasoft.Button",
 							"style": this.Terrasoft.controls.ButtonEnums.style.TRANSPARENT,
 							"tag": "save",
 							"markerValue": "save",
-							"imageConfig": {"bindTo": "Resources.Images.SaveIcon"}
+							"imageConfig": { "bindTo": "Resources.Images.SaveIcon" }
 						},
 						{
 							"className": "Terrasoft.Button",
 							"style": this.Terrasoft.controls.ButtonEnums.style.TRANSPARENT,
 							"tag": "cancel",
 							"markerValue": "cancel",
-							"imageConfig": {"bindTo": "Resources.Images.CancelIcon"}
+							"imageConfig": { "bindTo": "Resources.Images.CancelIcon" }
 						},
 						{
 							"className": "Terrasoft.Button",
 							"style": this.Terrasoft.controls.ButtonEnums.style.TRANSPARENT,
 							"tag": "card",
 							"markerValue": "card",
-							"imageConfig": {"bindTo": "Resources.Images.CardIcon"}
+							"imageConfig": { "bindTo": "Resources.Images.CardIcon" }
 						},
 						{
 							"className": "Terrasoft.Button",
 							"style": Terrasoft.controls.ButtonEnums.style.TRANSPARENT,
 							"tag": "copy",
 							"markerValue": "copy",
-							"imageConfig": {"bindTo": "Resources.Images.CopyIcon"}
+							"imageConfig": { "bindTo": "Resources.Images.CopyIcon" }
 						},
 						{
 							"className": "Terrasoft.Button",
 							"style": this.Terrasoft.controls.ButtonEnums.style.TRANSPARENT,
 							"tag": "remove",
 							"markerValue": "remove",
-							"imageConfig": {"bindTo": "Resources.Images.RemoveIcon"}
+							"imageConfig": { "bindTo": "Resources.Images.RemoveIcon" }
 						}
 					],
-					"initActiveRowKeyMap": {"bindTo": "initActiveRowKeyMap"},
-					"activeRowAction": {"bindTo": "onActiveRowAction"},
-					"multiSelect": {"bindTo": "MultiSelect"}
+					"initActiveRowKeyMap": { "bindTo": "initActiveRowKeyMap" },
+					"activeRowAction": { "bindTo": "onActiveRowAction" },
+					"multiSelect": { "bindTo": "MultiSelect" }
 				}
 			}
-		]/**SCHEMA_DIFF*/
+		] /**SCHEMA_DIFF*/
 	};
 });

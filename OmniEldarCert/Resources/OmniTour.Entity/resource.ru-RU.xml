@@ -9,6 +9,7 @@
 			<Item Name="Columns.OmniOmniTourOffers.Caption" Value="Турпредложения" />
 			<Item Name="Columns.OmniPrice.Caption" Value="Стоимость (не исп)" />
 			<Item Name="Columns.OmniPriceFloat.Caption" Value="Стоимость" />
+			<Item Name="Columns.OmniTestColumn.Caption" Value="Тестовая колонка" />
 			<Item Name="Columns.OmniTourDate.Caption" Value="Дата тура" />
 			<Item Name="Columns.OmniTourStatus.Caption" Value="Состояние тура" />
 		</Items>

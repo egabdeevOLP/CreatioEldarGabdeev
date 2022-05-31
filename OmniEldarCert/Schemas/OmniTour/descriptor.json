@@ -2,13 +2,12 @@
   "Descriptor": {
     "UId": "705a1c65-7f13-4ead-af73-032341ef2a61",
     "Name": "OmniTour",
-    "ModifiedOnUtc": "\/Date(1638020807000)\/",
+    "ModifiedOnUtc": "\/Date(1653999078000)\/",
     "Parent": {
       "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
       "Name": "BaseEntity"
     },
     "ManagerName": "EntitySchemaManager",
-    "Caption": "Тур",
-    "DependsOn": []
+    "Caption": "Тур"
   }
 }
