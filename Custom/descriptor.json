@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "a00051f4-cde3-4f3f-b08e-c5ad1a5c735a",
     "Name": "Custom",
-    "ModifiedOnUtc": "\/Date(1653912382000)\/",
+    "ModifiedOnUtc": "\/Date(1654020528000)\/",
     "Maintainer": "Customer",
     "Description": "Custom Package",
     "DependsOn": [
@@ -607,6 +607,10 @@
         "UId": "dc67ca89-0f24-44fc-8a0d-53169b1dec01",
         "PackageVersion": "7.8.0",
         "Name": "WebOrderForm"
+      },
+      {
+        "UId": "de1af169-f21c-5523-e5e6-0ae6a5d93ad6",
+        "Name": "OmniKafkaConnector"
       },
       {
         "UId": "e14dcfb1-e53c-4439-a876-af7f97083ed9",

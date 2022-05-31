@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "de1af169-f21c-5523-e5e6-0ae6a5d93ad6",
+    "Name": "OmniKafkaConnector",
+    "ModifiedOnUtc": "\/Date(1654020528000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": []
+  }
+}
