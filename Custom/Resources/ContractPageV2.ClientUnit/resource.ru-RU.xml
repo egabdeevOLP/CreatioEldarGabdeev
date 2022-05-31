@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.AmountTip.Caption" Value="Message to user 1" />
+			<Item Name="LocalizableStrings.AmountTip.Value" Value="Итоговая сумма договора. Если договор создан по заказу, поле недоступно для редактирования и рассчитывается автоматически как суммарная стоимость продуктов в договоре. Продукты в договор копируются из заказа при создании договора.&#xA;Если договор не связан с заказом, то поле доступно для редактирования&#xA;&lt;a href=&quot;#&quot; data-context-help-id=&quot;1582&quot; &gt;Подробнее…&lt;/a&gt;" />
+			<Item Name="LocalizableStrings.ChangeOrdersCurrencyButtonCaption.Caption" Value="ChangeOrdersCurrencyButtonCaption" />
+			<Item Name="LocalizableStrings.ChangeOrdersCurrencyButtonCaption.Value" Value="Изменить валюту в заказе" />
+			<Item Name="LocalizableStrings.ContractPassportTab.Value" Value="Паспорт договора" />
+			<Item Name="LocalizableStrings.ContractSumCaption.Value" Value="Сумма" />
+			<Item Name="LocalizableStrings.ConvertOrdersCurrencyMessage.Caption" Value="ConvertOrdersCurrencyMessage" />
+			<Item Name="LocalizableStrings.ConvertOrdersCurrencyMessage.Value" Value="Валюта в заказе по этому договору будет переведена в базовую валюту. Продолжить?" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Лента" />
+			<Item Name="LocalizableStrings.FieldValidationMessage.Value" Value="Поля:" />
+			<Item Name="LocalizableStrings.LinkProductCaption.Value" Value="Связать продукты в заказе с договором {0}?" />
+			<Item Name="LocalizableStrings.OrderTip.Caption" Value="Message to user 1" />
+			<Item Name="LocalizableStrings.OrderTip.Value" Value="Заказ, по которому создан договор. Если заполнено поле [Контрагент], для&#xA;выбора доступны только заказы выбранного контрагента" />
+			<Item Name="LocalizableStrings.QuestionAllCaption.Value" Value="Все" />
+			<Item Name="LocalizableStrings.QuestionChoiceCaption.Value" Value="Выбрать" />
+			<Item Name="LocalizableStrings.StandardErrorCaption.Value" Value="Ошибка в заполнении колонки. См. настройки правил ввода." />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Подписаться на обновление ленты" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Вы подписаны на обновление ленты: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Хронология" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Отписаться от обновлений ленты" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Вы отписаны от обновлений ленты: {0}" />
+			<Item Name="LocalizableStrings.ValidationMessage.Value" Value="заполнены с нарушением установленных условий валидации." />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.AmountTip.Value" Value="Total contract amount. If the contract is created based on an order, the field becomes non-editable and is calculated as a total amount of products in the contract. The products are copied to the contract from the order.&#xA;The field is editable, if the contract is not connected to an order&#xA;&lt;a href=&quot;#&quot; data-context-help-id=&quot;1582&quot; &gt;Read more&lt;/a&gt;" />
+			<Item Name="LocalizableStrings.ChangeOrdersCurrencyButtonCaption.Caption" Value="ChangeOrdersCurrencyButtonCaption" />
+			<Item Name="LocalizableStrings.ChangeOrdersCurrencyButtonCaption.Value" Value="تغيير ترتيب العملة" />
+			<Item Name="LocalizableStrings.ContractPassportTab.Value" Value="تفاصيل العقد" />
+			<Item Name="LocalizableStrings.ContractSumCaption.Value" Value="القيمة" />
+			<Item Name="LocalizableStrings.ConvertOrdersCurrencyMessage.Caption" Value="ConvertOrdersCurrencyMessage" />
+			<Item Name="LocalizableStrings.ConvertOrdersCurrencyMessage.Value" Value="سيتم تحويل عملة الطب لهذا العقد إلى العملة الأساسية. هل تريد المتابعة؟?" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="تغذية" />
+			<Item Name="LocalizableStrings.LinkProductCaption.Value" Value="أي من المنتجات المطلوبة التي تريد إضافتها إلى العقد {0}؟?" />
+			<Item Name="LocalizableStrings.OrderTip.Value" Value="إذا تم تحديد الحقل [حساب]، فقط طلبات الحساب المحدد هي من ستكون متاحة" />
+			<Item Name="LocalizableStrings.QuestionAllCaption.Value" Value="إضافة الكل" />
+			<Item Name="LocalizableStrings.QuestionChoiceCaption.Value" Value="اختر المنتجات" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="متابعة التغذية" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="أنت الآن متابع للتغذية: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="إلغاء متابعة التغذية" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="لقد قمت بايقاف التغذية التالية: {0}" />
+		</Items>
+	</Group>
+</Resources>

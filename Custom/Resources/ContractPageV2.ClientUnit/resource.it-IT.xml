@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="it-IT">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.AmountTip.Value" Value="Importo complessivo del contratto. Se il contratto è stato creato in base a un ordine, questo campo diventa non modificabile e viene calcolato come l'importo totale dei prodotti del contratto. I prodotto vengono copiati nel contratto dall'ordine. Il campo è modificabile se il contratto non è collegato ad un ordine.&#xA;&lt;a href=&quot;#&quot; data-context-help-id=&quot;1582&quot; &gt;Leggi di più&lt;/a&gt;" />
+			<Item Name="LocalizableStrings.ChangeOrdersCurrencyButtonCaption.Value" Value="Modifica valuta dell'ordine" />
+			<Item Name="LocalizableStrings.ContractPassportTab.Value" Value="Dettagli contratto" />
+			<Item Name="LocalizableStrings.ContractSumCaption.Value" Value="Importo" />
+			<Item Name="LocalizableStrings.ConvertOrdersCurrencyMessage.Value" Value="La valuta dell'ordine di questo contratto sarà convertita nella valuta base. Continuare?" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.LinkProductCaption.Value" Value="Quale dei prodotti ordinati si vogliono aggiungere al contratto {0}?" />
+			<Item Name="LocalizableStrings.OrderTip.Value" Value="Se il campo [Azienda] è specificato, solo gli ordini per l'azienda selezionata sono disponibili" />
+			<Item Name="LocalizableStrings.QuestionAllCaption.Value" Value="Aggiungi tutto" />
+			<Item Name="LocalizableStrings.QuestionChoiceCaption.Value" Value="Seleziona prodotti" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Segui il feed" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Ora stai seguendo il feed: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Linea temporale" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Smetti di seguire il feed" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Hai smesso di seguire il feed: {0}" />
+		</Items>
+	</Group>
+</Resources>

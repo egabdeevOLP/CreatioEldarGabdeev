@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "f0b1ffbf-cd2c-41fc-9149-c4a629c2e337",
+    "Name": "OmniTourOffersService",
+    "ModifiedOnUtc": "\/Date(1638027799000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "OmniTourOffersService",
+    "DependsOn": []
+  }
+}

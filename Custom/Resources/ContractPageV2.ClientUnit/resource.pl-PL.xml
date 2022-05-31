@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pl-PL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.AmountTip.Value" Value="Całkowita kwota zamówienia. Jeśli umowa jest tworzona na podstawie zlecenia wtedy pole staje się nieaktywne do edycji i jego wartość obliczana jako całkowita ilość produktów w umowie. Produkty są kopiowane do umowy ze zlecenia.&#xA;Pole można edytować, jeśli umowa nie jest połączona ze zlecenie.&#xA;&lt;a href=&quot;#&quot; data-context-help-id=&quot;1582&quot;&gt; Przeczytaj więcej &lt;/a&gt;" />
+			<Item Name="LocalizableStrings.ChangeOrdersCurrencyButtonCaption.Value" Value="Zmienić walutę zlecenia" />
+			<Item Name="LocalizableStrings.ContractPassportTab.Value" Value="Szczegóły kontraktu" />
+			<Item Name="LocalizableStrings.ContractSumCaption.Value" Value="Wartość" />
+			<Item Name="LocalizableStrings.ConvertOrdersCurrencyMessage.Value" Value="Waluta zlecenia dla tej umowy zostanie zmieniona na walutę bazową. Czy kontynuować?" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Kanał" />
+			<Item Name="LocalizableStrings.LinkProductCaption.Value" Value="Które z zamówionych produktów dodać do umowy {0}?" />
+			<Item Name="LocalizableStrings.OrderTip.Value" Value="Jeżeli pole [Kontrahent] zostało wypełnione, dostępne będą tylko zlecenia dla danego Kontahenta" />
+			<Item Name="LocalizableStrings.QuestionAllCaption.Value" Value="Dodaj wszystkie" />
+			<Item Name="LocalizableStrings.QuestionChoiceCaption.Value" Value="Wybierz produkty" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Śledź kanał informacji" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Od tej chwili śledzisz następujący kanał: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Zakończ śledzenie kanału" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Przestałeś śledzić kanał: {0}" />
+		</Items>
+	</Group>
+</Resources>

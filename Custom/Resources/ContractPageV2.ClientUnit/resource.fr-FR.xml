@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.AmountTip.Value" Value="Montant total du contrat. Si le contrat est créé sur la base d'une commande, le champ devient non modifiable et est calculé comme le montant total des produits dans le contrat. Les produits sont copiés de la commande vers le contrat.&#xA;Le champ est modifiable, si le contrat n'est pas associé à une commande&#xA;&lt;a href=&quot;#&quot; data-context-help-id=&quot;1582&quot;&gt; En savoir plus &lt;/a&gt;" />
+			<Item Name="LocalizableStrings.ChangeOrdersCurrencyButtonCaption.Value" Value="Modifier la devise de la commande" />
+			<Item Name="LocalizableStrings.ContractPassportTab.Value" Value="Détails du contrat" />
+			<Item Name="LocalizableStrings.ContractSumCaption.Value" Value="Montant" />
+			<Item Name="LocalizableStrings.ConvertOrdersCurrencyMessage.Value" Value="La devise de cette commande sera convertie dans la devise d'origine. Continuer?" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.LinkProductCaption.Value" Value="Lequel des produits commandés voulez vous ajouter au contrat {0}?" />
+			<Item Name="LocalizableStrings.OrderTip.Value" Value="Si le champ [Compte] est défini, seuls les commandes pour le compte sélectionné sont disponibles" />
+			<Item Name="LocalizableStrings.QuestionAllCaption.Value" Value="Tout ajouter" />
+			<Item Name="LocalizableStrings.QuestionChoiceCaption.Value" Value="Sélectionner les produits" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Suivre le feed" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Vous suivez désormais le feed: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Chronologie" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Ne plus suivre le feed" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Vous avez arrêté de suivre le feed: {0}" />
+		</Items>
+	</Group>
+</Resources>

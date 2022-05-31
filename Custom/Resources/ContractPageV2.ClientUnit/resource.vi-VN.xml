@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.AmountTip.Value" Value="Tổng số hợp đồng. Nếu hợp đồng được tạo ra dựa trên một đơn hàng, trường đó sẽ không thể bị chỉnh sửa và được tính toán như một tổng số các sản phẩm trong hợp đồng. Các sản phẩm được sao chép từ đơn hàng vào hợp đồng.&#xA;Trường này không thể bị chỉnh sửa, nếu hợp đồng chưa được kết nối với một đơn hàng&#xA;&lt;a href=&quot;#&quot; data-context-help-id=&quot;1582&quot; &gt;Đọc thêm&lt;/a&gt;" />
+			<Item Name="LocalizableStrings.ChangeOrdersCurrencyButtonCaption.Value" Value="Thay đổi đơn vị tiền tệ đặt hàng" />
+			<Item Name="LocalizableStrings.ContractPassportTab.Value" Value="Thông tin hợp đồng" />
+			<Item Name="LocalizableStrings.ContractSumCaption.Value" Value="Số tiền" />
+			<Item Name="LocalizableStrings.ConvertOrdersCurrencyMessage.Value" Value="Đơn vị tiền tệ đặt hàng cho hợp đồng này sẽ được chuyển thành đơn vị tiền tệ gốc. Bạn có muốn tiếp tục không?" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Tin tức" />
+			<Item Name="LocalizableStrings.LinkProductCaption.Value" Value="Bạn muốn thêm sản phẩm đã đặt nào vào hợp đồng {0}?" />
+			<Item Name="LocalizableStrings.OrderTip.Value" Value="Nếu trường [Tài khoản] được xác định, chỉ những đơn hàng cho những tài khoản được chọn sẽ có" />
+			<Item Name="LocalizableStrings.QuestionAllCaption.Value" Value="Thêm vào tất cả" />
+			<Item Name="LocalizableStrings.QuestionChoiceCaption.Value" Value="Chọn các sản phẩm" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Theo dõi tin tức" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Bạn hiện đang theo dõi tin tức: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Mốc thời gian" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Bỏ theo dõi tin tức" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Bạn vừa dừng theo dõi tin tức: {0}" />
+		</Items>
+	</Group>
+</Resources>

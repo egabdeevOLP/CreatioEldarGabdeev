@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "7468bee0-c57f-49a4-a444-15ad11ea81af",
+    "Name": "OmniCreateTours",
+    "ModifiedOnUtc": "\/Date(1638025211000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Создать туры",
+    "DependsOn": []
+  }
+}

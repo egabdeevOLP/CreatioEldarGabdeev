@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.AmountTip.Value" Value="Підсумкова сума договору. Якщо договір створений за замовленням, поле недоступне для редагування і розраховується автоматично як сумарна вартість продуктів в договорі. Продукти в договір копіюються з замовлення при створенні договору.&#xA;Якщо договір не пов'язаний із замовленням, то поле є для редагування&#xA;&lt;a href=&quot;#&quot; data-context-help-id=&quot;1582&quot; &gt;Докладніше…&lt;/a&gt;" />
+			<Item Name="LocalizableStrings.ChangeOrdersCurrencyButtonCaption.Value" Value="Змінити валюту в замовленні" />
+			<Item Name="LocalizableStrings.ContractPassportTab.Value" Value="Паспорт договору" />
+			<Item Name="LocalizableStrings.ContractSumCaption.Value" Value="Сума" />
+			<Item Name="LocalizableStrings.ConvertOrdersCurrencyMessage.Value" Value="Валюта в замовленні за цим договором буде переведена в базову валюту. Продовжити?" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Стрічка" />
+			<Item Name="LocalizableStrings.LinkProductCaption.Value" Value="Зв'язати продукти в замовленні з договором {0}?" />
+			<Item Name="LocalizableStrings.OrderTip.Value" Value="Замовлення, за яким створено договір. Якщо заповнено поле [Контрагент], для вибору доступні тільки замовлення обраного контрагента" />
+			<Item Name="LocalizableStrings.QuestionAllCaption.Value" Value="Усе" />
+			<Item Name="LocalizableStrings.QuestionChoiceCaption.Value" Value="Вибрати" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Підписатися на оновлення стрічки" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Ви підписані на оновлення стрічки: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Хронологія" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Відписатися від оновлень стрічки" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Ви відписані від оновлень стрічки: {0}" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="فرصة" />
+			<Item Name="Stages.Stage1.Caption" Value="المؤهلات" />
+			<Item Name="Stages.Stage2.Caption" Value="مقترح" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.Account.Caption" Value="الحساب" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.ActivityCategory.Caption" Value="الفئة" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.ActivityPriority.Caption" Value="Priority" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.ActivityResult.Caption" Value="حصيلة النشاط" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.Application.Caption" Value="تطبيق" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.Case.Caption" Value="حالة" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.Change.Caption" Value="تغيير" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.ConfItem.Caption" Value="عنصر التهيئة" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.Contact.Caption" Value="جهة الاتصال" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.Contract.Caption" Value="عقد" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.CurrentActivityId.Caption" Value="معرف المهمة" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.Document.Caption" Value="وثيقة" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.Duration.Caption" Value="المدة" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.DurationPeriod.Caption" Value="المدة (الفترة)" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.Event.Caption" Value="حدث" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.ExecutionContext.Caption" Value="سياق التنفيذ" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.FinApplication.Caption" Value="تطبيق" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.Incident.Caption" Value="عارض" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.InformationOnStep.Caption" Value="معلومات عن الخطوة" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.Invoice.Caption" Value="الفاتورة" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.IsActivityCompleted.Caption" Value="النشاط مكتمل" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.Lead.Caption" Value="قيادة" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.Listing.Caption" Value="قوائم" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.OmniChat.Caption" Value="Chat" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.Opportunity.Caption" Value="فرصة" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.Order.Caption" Value="طلب" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.OwnerId.Caption" Value="المالك" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.Problem.Caption" Value="المشكلة" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.Project.Caption" Value="مشروع" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.Property.Caption" Value="خصائص" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.QueueItem.Caption" Value="عنصر قائمة انتظار" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.Recommendation.Caption" Value="توصية" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.Release.Caption" Value="تحرير" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.RemindBefore.Caption" Value="تذكير المالك مقدما" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.RemindBeforePeriod.Caption" Value="قم بتذكير المالك مقدما (الفترة)" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.Requests.Caption" Value="طلب" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.ShowExecutionPage.Caption" Value="إظهار صفحة التنفيذ تلقائياً" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.ShowInScheduler.Caption" Value="أدرج في جدول الأعمال" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.StartIn.Caption" Value="بدء التنفيذ في" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.StartInPeriod.Caption" Value="بدء التنفيذ في (فترة)" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.Account.Caption" Value="الحساب" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.ActivityCategory.Caption" Value="الفئة" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.ActivityPriority.Caption" Value="Priority" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.ActivityResult.Caption" Value="حصيلة النشاط" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.Application.Caption" Value="تطبيق" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.Case.Caption" Value="حالة" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.Change.Caption" Value="تغيير" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.ConfItem.Caption" Value="عنصر التهيئة" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.Contact.Caption" Value="جهة الاتصال" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.Contract.Caption" Value="عقد" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.CurrentActivityId.Caption" Value="معرف المهمة" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.Document.Caption" Value="وثيقة" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.Duration.Caption" Value="المدة" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.DurationPeriod.Caption" Value="المدة (الفترة)" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.Event.Caption" Value="حدث" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.ExecutionContext.Caption" Value="سياق التنفيذ" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.FinApplication.Caption" Value="تطبيق" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.Incident.Caption" Value="عارض" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.InformationOnStep.Caption" Value="معلومات عن الخطوة" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.Invoice.Caption" Value="الفاتورة" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.IsActivityCompleted.Caption" Value="النشاط مكتمل" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.Lead.Caption" Value="قيادة" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.Listing.Caption" Value="قوائم" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.OmniChat.Caption" Value="Chat" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.Opportunity.Caption" Value="فرصة" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.Order.Caption" Value="طلب" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.OwnerId.Caption" Value="المالك" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.Problem.Caption" Value="المشكلة" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.Project.Caption" Value="مشروع" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.Property.Caption" Value="خصائص" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.QueueItem.Caption" Value="عنصر قائمة انتظار" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.Recommendation.Caption" Value="توصية" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.Release.Caption" Value="تحرير" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.RemindBefore.Caption" Value="تذكير المالك مقدما" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.RemindBeforePeriod.Caption" Value="قم بتذكير المالك مقدما (الفترة)" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.Requests.Caption" Value="طلب" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.ShowExecutionPage.Caption" Value="إظهار صفحة التنفيذ تلقائياً" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.ShowInScheduler.Caption" Value="أدرج في جدول الأعمال" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.StartIn.Caption" Value="بدء التنفيذ في" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.StartInPeriod.Caption" Value="بدء التنفيذ في (فترة)" />
+			<Item Name="Stages.Stage3.Caption" Value="تقديم" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.Account.Caption" Value="الحساب" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.ActivityCategory.Caption" Value="الفئة" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.ActivityPriority.Caption" Value="Priority" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.ActivityResult.Caption" Value="حصيلة النشاط" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.Application.Caption" Value="تطبيق" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.Case.Caption" Value="حالة" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.Change.Caption" Value="تغيير" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.ConfItem.Caption" Value="عنصر التهيئة" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.Contact.Caption" Value="جهة الاتصال" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.Contract.Caption" Value="عقد" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.CurrentActivityId.Caption" Value="معرف المهمة" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.Document.Caption" Value="وثيقة" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.Duration.Caption" Value="المدة" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.DurationPeriod.Caption" Value="المدة (الفترة)" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.Event.Caption" Value="حدث" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.ExecutionContext.Caption" Value="سياق التنفيذ" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.FinApplication.Caption" Value="تطبيق" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.Incident.Caption" Value="عارض" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.InformationOnStep.Caption" Value="معلومات عن الخطوة" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.Invoice.Caption" Value="الفاتورة" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.IsActivityCompleted.Caption" Value="النشاط مكتمل" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.Lead.Caption" Value="قيادة" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.Listing.Caption" Value="قوائم" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.OmniChat.Caption" Value="Chat" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.Opportunity.Caption" Value="فرصة" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.Order.Caption" Value="طلب" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.OwnerId.Caption" Value="المالك" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.Problem.Caption" Value="المشكلة" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.Project.Caption" Value="مشروع" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.Property.Caption" Value="خصائص" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.QueueItem.Caption" Value="عنصر قائمة انتظار" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.Recommendation.Caption" Value="توصية" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.Release.Caption" Value="تحرير" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.RemindBefore.Caption" Value="تذكير المالك مقدما" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.RemindBeforePeriod.Caption" Value="قم بتذكير المالك مقدما (الفترة)" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.Requests.Caption" Value="طلب" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.ShowExecutionPage.Caption" Value="إظهار صفحة التنفيذ تلقائياً" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.ShowInScheduler.Caption" Value="أدرج في جدول الأعمال" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.StartIn.Caption" Value="بدء التنفيذ في" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.StartInPeriod.Caption" Value="بدء التنفيذ في (فترة)" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Account.Caption" Value="الحساب" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.ActivityCategory.Caption" Value="الفئة" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.ActivityPriority.Caption" Value="Priority" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.ActivityResult.Caption" Value="حصيلة النشاط" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Application.Caption" Value="تطبيق" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Case.Caption" Value="حالة" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Change.Caption" Value="تغيير" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.ConfItem.Caption" Value="عنصر التهيئة" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Contact.Caption" Value="جهة الاتصال" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Contract.Caption" Value="عقد" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.CurrentActivityId.Caption" Value="معرف المهمة" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Document.Caption" Value="وثيقة" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Duration.Caption" Value="المدة" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.DurationPeriod.Caption" Value="المدة (الفترة)" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Event.Caption" Value="حدث" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.ExecutionContext.Caption" Value="سياق التنفيذ" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.FinApplication.Caption" Value="تطبيق" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Incident.Caption" Value="عارض" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.InformationOnStep.Caption" Value="معلومات عن الخطوة" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Invoice.Caption" Value="الفاتورة" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.IsActivityCompleted.Caption" Value="النشاط مكتمل" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Lead.Caption" Value="قيادة" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Listing.Caption" Value="قوائم" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.OmniChat.Caption" Value="Chat" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Opportunity.Caption" Value="فرصة" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Order.Caption" Value="طلب" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.OwnerId.Caption" Value="المالك" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Problem.Caption" Value="المشكلة" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Project.Caption" Value="مشروع" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Property.Caption" Value="خصائص" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.QueueItem.Caption" Value="عنصر قائمة انتظار" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Recommendation.Caption" Value="توصية" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Release.Caption" Value="تحرير" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.RemindBefore.Caption" Value="تذكير المالك مقدما" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.RemindBeforePeriod.Caption" Value="قم بتذكير المالك مقدما (الفترة)" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Requests.Caption" Value="طلب" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.ShowExecutionPage.Caption" Value="إظهار صفحة التنفيذ تلقائياً" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.ShowInScheduler.Caption" Value="أدرج في جدول الأعمال" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.StartIn.Caption" Value="بدء التنفيذ في" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.StartInPeriod.Caption" Value="بدء التنفيذ في (فترة)" />
+			<Item Name="Stages.Stage4.Caption" Value="الخسائر المقفلة" />
+			<Item Name="Stages.Stage5.Caption" Value="الارباح المقفلة" />
+			<Item Name="Stages.Stage6.Caption" Value="التعاقد" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Account.Caption" Value="الحساب" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.ActivityCategory.Caption" Value="الفئة" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.ActivityPriority.Caption" Value="Priority" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.ActivityResult.Caption" Value="حصيلة النشاط" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Application.Caption" Value="تطبيق" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Case.Caption" Value="حالة" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Change.Caption" Value="تغيير" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.ConfItem.Caption" Value="عنصر التهيئة" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Contact.Caption" Value="جهة الاتصال" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Contract.Caption" Value="عقد" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.CurrentActivityId.Caption" Value="معرف المهمة" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Document.Caption" Value="وثيقة" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Duration.Caption" Value="المدة" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.DurationPeriod.Caption" Value="المدة (الفترة)" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Event.Caption" Value="حدث" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.ExecutionContext.Caption" Value="سياق التنفيذ" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.FinApplication.Caption" Value="تطبيق" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Incident.Caption" Value="عارض" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.InformationOnStep.Caption" Value="معلومات عن الخطوة" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Invoice.Caption" Value="الفاتورة" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.IsActivityCompleted.Caption" Value="النشاط مكتمل" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Lead.Caption" Value="قيادة" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Listing.Caption" Value="قوائم" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.OmniChat.Caption" Value="Chat" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Opportunity.Caption" Value="فرصة" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Order.Caption" Value="طلب" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.OwnerId.Caption" Value="المالك" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Problem.Caption" Value="المشكلة" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Project.Caption" Value="مشروع" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Property.Caption" Value="خصائص" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.QueueItem.Caption" Value="عنصر قائمة انتظار" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Recommendation.Caption" Value="توصية" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Release.Caption" Value="تحرير" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.RemindBefore.Caption" Value="تذكير المالك مقدما" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.RemindBeforePeriod.Caption" Value="قم بتذكير المالك مقدما (الفترة)" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Requests.Caption" Value="طلب" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.ShowExecutionPage.Caption" Value="إظهار صفحة التنفيذ تلقائياً" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.ShowInScheduler.Caption" Value="أدرج في جدول الأعمال" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.StartIn.Caption" Value="بدء التنفيذ في" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.StartInPeriod.Caption" Value="بدء التنفيذ في (فترة)" />
+		</Items>
+	</Group>
+</Resources>

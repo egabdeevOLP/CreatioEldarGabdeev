@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "c0a28f2f-7c7e-4e95-b3ed-fdc92837b870",
+    "Name": "OpportunityActionsDashboard",
+    "ModifiedOnUtc": "\/Date(1643023553000)\/",
+    "Parent": {
+      "UId": "ff21ce44-069a-49c8-89b0-83d2f3472ce3",
+      "Name": "OpportunityActionsDashboard"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "OpportunityActionsDashboard",
+    "DependsOn": []
+  }
+}

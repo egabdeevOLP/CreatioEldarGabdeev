@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Турпредложения" />
+			<Item Name="Columns.OmniActive.Caption" Value="Активно" />
+			<Item Name="Columns.OmniCode.Caption" Value="Код" />
+			<Item Name="Columns.OmniComment.Caption" Value="Комментарий" />
+			<Item Name="Columns.OmniName.Caption" Value="Название" />
+			<Item Name="Columns.OmniNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.OmniOwner.Caption" Value="Ответственный" />
+			<Item Name="Columns.OmniPeriodicity.Caption" Value="Периодичность" />
+		</Items>
+	</Group>
+</Resources>

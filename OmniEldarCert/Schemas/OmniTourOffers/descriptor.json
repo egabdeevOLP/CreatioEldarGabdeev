@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "3476c1e2-d756-410d-b386-97a5528bbaca",
+    "Name": "OmniTourOffers",
+    "ModifiedOnUtc": "\/Date(1638010825000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Турпредложения",
+    "DependsOn": []
+  }
+}

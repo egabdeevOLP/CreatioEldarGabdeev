@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "02af3264-c349-4b5e-a26b-c4de367f81d7",
+    "Name": "OmniOpportunityBaseStageControl",
+    "ModifiedOnUtc": "\/Date(1643023899000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "OmniOpportunityBaseStageControl",
+    "DependsOn": []
+  }
+}

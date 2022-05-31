@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fa-IR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.AmountTip.Value" Value="مبلغ کل قرارداد. اگر قرارداد بر اساس سفارش ایجاد شده باشد، فیلد غیر قابل ویرایش می شود و به عنوان مجموع مقدار محصولات در قرارداد محاسبه می شود. محصولات به ترتیب از قرارداد کپی می شوند.&#xA;فیلد قابل ویرایش است، اگر قرارداد به یک سفارش متصل نیست&#xA;&lt;a href=&quot;#&quot; data-context-help-id=&quot;1582&quot; &gt;Read more&lt;/a&gt;" />
+			<Item Name="LocalizableStrings.ChangeOrdersCurrencyButtonCaption.Value" Value="تغییر ارز سفارش" />
+			<Item Name="LocalizableStrings.ContractPassportTab.Value" Value="جزییات قرارداد" />
+			<Item Name="LocalizableStrings.ContractSumCaption.Value" Value="مبلغ،" />
+			<Item Name="LocalizableStrings.ConvertOrdersCurrencyMessage.Value" Value="ارز سفارش برای این قرارداد به ارز پایه تبدیل می شود. ادامه می دهید؟?" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="فید" />
+			<Item Name="LocalizableStrings.LinkProductCaption.Value" Value="کدام محصولات سفارش داده شده را می خواهید برای {0} اضافه کنید؟?" />
+			<Item Name="LocalizableStrings.OrderTip.Value" Value="اگر فیلد [طرف حساب] مشخص شده باشد، فقط سفارشات طرف حساب انتخاب شده در دسترس هستند" />
+			<Item Name="LocalizableStrings.QuestionAllCaption.Value" Value="افزودن همه" />
+			<Item Name="LocalizableStrings.QuestionChoiceCaption.Value" Value="انتخاب محصولات" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="دنبال کردن فید" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="پیگیری این فید را آغاز نمودید: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="تایم لاین" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="لغو دنبال کردن فید" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="پیگیری این فید را متوقف نمودید: {0}" />
+		</Items>
+	</Group>
+</Resources>

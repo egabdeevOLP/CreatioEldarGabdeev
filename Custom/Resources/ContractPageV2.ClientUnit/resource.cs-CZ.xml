@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.AmountTip.Value" Value="Celková částka smlouvy. V případě, že smlouva je vytvořena na základě objednávky, pole je neupravitelné a jeho hodnota je vypočítána jako celková částka produktů ve smlouvě. Tyto produkty jsou zkopírovány do smlouvy z objednávky.&#xA;Pole lze upravovat, pokud smlouva není navázána na objednávku&#xA;&lt;a href=&quot;#&quot; data-context-help-id=&quot;1582&quot; &gt;Přečíst více&lt;/a&gt;" />
+			<Item Name="LocalizableStrings.ChangeOrdersCurrencyButtonCaption.Value" Value="Změna měny v odjednávce" />
+			<Item Name="LocalizableStrings.ContractPassportTab.Value" Value="Podrobnosti smlouvy" />
+			<Item Name="LocalizableStrings.ContractSumCaption.Value" Value="Celkem" />
+			<Item Name="LocalizableStrings.ConvertOrdersCurrencyMessage.Value" Value="Pro tuto smlouvy měna objednávky bude převedena na základní měnu. Pokračovat?" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Sociální síť" />
+			<Item Name="LocalizableStrings.LinkProductCaption.Value" Value="Jaké produkty byste chtěli přidat ke smlouvě {0}?" />
+			<Item Name="LocalizableStrings.OrderTip.Value" Value="Zůstane-li hodnota pole [Firma] prázdné, objednávky pouze zvolené firmy budou dostupné" />
+			<Item Name="LocalizableStrings.QuestionAllCaption.Value" Value="Přidat vše" />
+			<Item Name="LocalizableStrings.QuestionChoiceCaption.Value" Value="Volba produktů" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Sledovat kanál" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Nyní sledujete kanál: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Časová osa" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Přestat sledovat" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Přestali jste sledovat tento kanál: {0}" />
+		</Items>
+	</Group>
+</Resources>

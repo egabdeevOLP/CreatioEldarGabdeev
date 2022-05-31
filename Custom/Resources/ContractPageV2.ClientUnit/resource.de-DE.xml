@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="de-DE">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.AmountTip.Value" Value="Gesamtbetrag des Vertrags. Wenn der Vertrag auf einer Bestellung basiert, ist das Feld nicht editierbar und wird als Gesamtbetrag der Produkte im Vertrag berechnet. Die Produkte werden in den Vertrag kopiert.&#xA;Das Feld ist editierbar, wenn der Vertrag nicht mit einer Bestellung verbunden ist.&#xA;&lt;a href=&quot;#&quot; data-context-help-id=&quot;1582&quot; &gt;Weiterlesen ...&lt;/a&gt;" />
+			<Item Name="LocalizableStrings.ChangeOrdersCurrencyButtonCaption.Value" Value="Währung der Bestellung ändern" />
+			<Item Name="LocalizableStrings.ContractPassportTab.Value" Value="Vertragsdetails" />
+			<Item Name="LocalizableStrings.ContractSumCaption.Value" Value="Betrag" />
+			<Item Name="LocalizableStrings.ConvertOrdersCurrencyMessage.Value" Value="Bestellwährung für diesen Vertrag wird in die Basiswährung konvertiert. Fortsetzen?" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.LinkProductCaption.Value" Value="Welche der bestellten Produkte sollen zum Vertrag {0} hinzugefügt werden?" />
+			<Item Name="LocalizableStrings.OrderTip.Value" Value="Wenn das [Account] Feld angegeben ist, sind nur Bestellungen für den ausgewählten Account verfügbar" />
+			<Item Name="LocalizableStrings.QuestionAllCaption.Value" Value="Alle hinzufügen" />
+			<Item Name="LocalizableStrings.QuestionChoiceCaption.Value" Value="Produkte auswählen" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Dem Feed folgen" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Sie folgen jetzt dem Feed: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Feed nicht mehr folgen" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Sie folgen nicht mehr dem Feed: {0}" />
+		</Items>
+	</Group>
+</Resources>

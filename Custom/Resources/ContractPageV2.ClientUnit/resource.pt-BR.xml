@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-BR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.AmountTip.Value" Value="Valor total do contrato. Se o contrato for criado com base em um pedido, o campo torna-se não-editável e é calculado como uma quantidade total de produtos no contrato. Os produtos são copiados para o contrato do pedido.&#xA;O campo é editável, se  contrato não estiver ligado a um pedido&#xA;&lt;a href=&quot;#&quot; data-context-help-id=&quot;1582&quot; &gt;Leia mais&lt;/a&gt;" />
+			<Item Name="LocalizableStrings.ChangeOrdersCurrencyButtonCaption.Value" Value="Alterar moeda do pedido" />
+			<Item Name="LocalizableStrings.ContractPassportTab.Value" Value="Detalhes do contrato" />
+			<Item Name="LocalizableStrings.ContractSumCaption.Value" Value="Quantidade" />
+			<Item Name="LocalizableStrings.ConvertOrdersCurrencyMessage.Value" Value="A moeda para esse contrato será convertida para a moeda base. Continuar?" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.LinkProductCaption.Value" Value="Qual dos produtos encomendados você deseja adicionar ao contrato {0}?" />
+			<Item Name="LocalizableStrings.OrderTip.Value" Value="Se o campo [Conta] for especificado, somente pedidos para a conta selecionada estão disponíveis" />
+			<Item Name="LocalizableStrings.QuestionAllCaption.Value" Value="Adicionar todos" />
+			<Item Name="LocalizableStrings.QuestionChoiceCaption.Value" Value="Selecionar products" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Seguir o feed" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Você agora está seguindo o feed: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Parar de seguir o feed" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Você parou de seguir o feed: {0}" />
+		</Items>
+	</Group>
+</Resources>

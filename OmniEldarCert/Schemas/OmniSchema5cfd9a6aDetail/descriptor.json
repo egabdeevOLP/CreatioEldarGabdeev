@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b06353b6-a565-4da4-96af-43e228b6f5a4",
+    "Name": "OmniSchema5cfd9a6aDetail",
+    "ModifiedOnUtc": "\/Date(1638009282000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Тур",
+    "DependsOn": []
+  }
+}

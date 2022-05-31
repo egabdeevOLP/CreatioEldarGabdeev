@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "c0fa4415-8bd2-4b63-a5c3-e6252c18e287",
+    "Name": "OmniTourOffers1Page",
+    "ModifiedOnUtc": "\/Date(1638026741000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Турпредложения\"",
+    "DependsOn": []
+  }
+}

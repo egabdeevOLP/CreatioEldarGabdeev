@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Тур" />
+			<Item Name="Columns.OmniManager.Caption" Value="Менеджер" />
+			<Item Name="Columns.OmniName.Caption" Value="Название" />
+			<Item Name="Columns.OmniNumberOfTourists.Caption" Value="Число туристов" />
+			<Item Name="Columns.OmniOmniTourOffers.Caption" Value="Турпредложения" />
+			<Item Name="Columns.OmniPrice.Caption" Value="Стоимость (не исп)" />
+			<Item Name="Columns.OmniPriceFloat.Caption" Value="Стоимость" />
+			<Item Name="Columns.OmniTourDate.Caption" Value="Дата тура" />
+			<Item Name="Columns.OmniTourStatus.Caption" Value="Состояние тура" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="es-ES">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.AmountTip.Value" Value="Importe total del contrato. Si el contrato se crea a base del pedido, el campo no se puede tratar y se calcula como el importe total de productos en el contrato. Los productos se copian al contrato del pedido. El campo se puede tratar si el contrato no está conectado con el pedido. &lt;a href=&quot;#&quot; data-context-help-id=&quot;1582&quot; &gt;Más información&lt;/a&gt;" />
+			<Item Name="LocalizableStrings.ChangeOrdersCurrencyButtonCaption.Value" Value="Cambiar divisa de pedido" />
+			<Item Name="LocalizableStrings.ContractPassportTab.Value" Value="Detalles de contrato" />
+			<Item Name="LocalizableStrings.ContractSumCaption.Value" Value="Importe" />
+			<Item Name="LocalizableStrings.ConvertOrdersCurrencyMessage.Value" Value="La divisa del pedido para este contrato se convertirá en la divisa base. ¿Desea continuar?" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Retroalimentación" />
+			<Item Name="LocalizableStrings.LinkProductCaption.Value" Value="¿Cuáles de los productos solicitados desea añadir al contrato {0}?" />
+			<Item Name="LocalizableStrings.OrderTip.Value" Value="Si el campo [Cuenta] es completado, solo están disponibles los pedidos para la cuenta seleccionada" />
+			<Item Name="LocalizableStrings.QuestionAllCaption.Value" Value="Añadir todo" />
+			<Item Name="LocalizableStrings.QuestionChoiceCaption.Value" Value="Seleccionar productos" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Sigue el feed" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Ahora estás siguiendo el feed: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Línea de tiempo" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Dejar de seguir el feed" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Has dejado de seguir el feed: {0}" />
+		</Items>
+	</Group>
+</Resources>

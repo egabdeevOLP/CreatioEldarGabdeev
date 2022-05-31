@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "5e3fcc40-23dc-4fb5-83f4-46f838dedc50",
+    "Name": "OmniTourOffersInTag",
+    "ModifiedOnUtc": "\/Date(1638008266000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег в записи раздела Турпредложения",
+    "DependsOn": []
+  }
+}

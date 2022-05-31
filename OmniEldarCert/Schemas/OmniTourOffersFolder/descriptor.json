@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "e245f78c-2c2f-4c43-a9f1-5ef57a821826",
+    "Name": "OmniTourOffersFolder",
+    "ModifiedOnUtc": "\/Date(1638008261000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Группа Турпредложения",
+    "DependsOn": []
+  }
+}

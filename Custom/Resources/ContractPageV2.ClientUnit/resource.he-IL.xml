@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.AmountTip.Value" Value="סכום החוזה הכולל. אם החוזה נוצר על פי הזמנה, השדה הופך ללא עריכה ומחושב כסכום כולל של מוצרים בחוזה. המוצרים מועתקים לחוזה מהזמנה.&#xA;השדה ניתן לעריכה, אם החוזה אינו מחובר להזמנה&#xA;&lt;a href=&quot;#&quot; data-context-help-id=&quot;1582&quot;&gt; קרא עוד &lt;/a&gt;" />
+			<Item Name="LocalizableStrings.ChangeOrdersCurrencyButtonCaption.Caption" Value="ChangeOrdersCurrencyButtonCaption" />
+			<Item Name="LocalizableStrings.ChangeOrdersCurrencyButtonCaption.Value" Value="שנה מטבע ההזמנה" />
+			<Item Name="LocalizableStrings.ContractPassportTab.Value" Value="פרטי איש קשר" />
+			<Item Name="LocalizableStrings.ContractSumCaption.Value" Value="סכום" />
+			<Item Name="LocalizableStrings.ConvertOrdersCurrencyMessage.Caption" Value="ConvertOrdersCurrencyMessage" />
+			<Item Name="LocalizableStrings.ConvertOrdersCurrencyMessage.Value" Value="מטבע ההזמנה עבור חוזה זה יומר למטבע הבסיס. האם להמשיך?" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="לוח הודעות" />
+			<Item Name="LocalizableStrings.LinkProductCaption.Value" Value="אילו מהמוצרים המוזמנים ברצונך להוסיף לחוזה {0}?" />
+			<Item Name="LocalizableStrings.OrderTip.Value" Value="אם השדה 'חברה' צוין, רק הזמנות עבור החברה שנבחרה זמינות" />
+			<Item Name="LocalizableStrings.QuestionAllCaption.Value" Value="הוסף הכל" />
+			<Item Name="LocalizableStrings.QuestionChoiceCaption.Value" Value="בחר מוצרים" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="עקוב אחר לוח ההודעות" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="אתה עוקב אחרי לוח ההודעות: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="ציר זמן" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="בטל מעקב אחר לוח ההודועות" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="הפסקת לעקוב אחרי לוח ההודעות: {0}" />
+		</Items>
+	</Group>
+</Resources>

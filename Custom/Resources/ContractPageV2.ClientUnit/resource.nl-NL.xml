@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.AmountTip.Value" Value="Totale contractwaarde bedrag. Indien de overeenkomst is gemaakt op basis van een bestelling, het veld is dan niet meer te wijzigen en wordt berekend als een totaal bedrag van producten in het contract. De producten worden gekopieerd naar het contract vanit de order.&#xA;Het veld is bewerkbaar, indien de overeenkomst niet is gekoppeld aan een order&#xA;&lt;a href=&quot;#&quot; data-context-help-id=&quot;1582&quot;&gt; Lees meer &lt;/a&gt;" />
+			<Item Name="LocalizableStrings.ChangeOrdersCurrencyButtonCaption.Value" Value="Wijzig order valuta" />
+			<Item Name="LocalizableStrings.ContractPassportTab.Value" Value="Contract details" />
+			<Item Name="LocalizableStrings.ContractSumCaption.Value" Value="Bedrag" />
+			<Item Name="LocalizableStrings.ConvertOrdersCurrencyMessage.Value" Value="Ordervaluta voor dit contract zal worden omgezet in de basisvaluta. Doorgaan?" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.LinkProductCaption.Value" Value="Welke van de bestelde producten wilt u toevoegen aan het contract {0}?" />
+			<Item Name="LocalizableStrings.OrderTip.Value" Value="Als het veld [Account] is opgegeven, zijn alleen de orders voor het geselecteerde bedrijf beschikbaar" />
+			<Item Name="LocalizableStrings.QuestionAllCaption.Value" Value="Alles toevoegen" />
+			<Item Name="LocalizableStrings.QuestionChoiceCaption.Value" Value="Selecteer producten" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Volg de feed" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="U volgt nu feed: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Tijdlijn" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Feed niet meer volgen" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="U bent gestopt met het volgen van de feed: {0}" />
+		</Items>
+	</Group>
+</Resources>

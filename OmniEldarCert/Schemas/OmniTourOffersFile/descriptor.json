@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "6f1f736a-1d86-4ce4-bbe1-94924e97b64d",
+    "Name": "OmniTourOffersFile",
+    "ModifiedOnUtc": "\/Date(1638008260000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Турпредложения",
+    "DependsOn": []
+  }
+}

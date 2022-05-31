@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Схема раздела: &quot;Турпредложения&quot;" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Турпредложения" />
+			<Item Name="LocalizableStrings.OmniCreateTours.Value" Value="Создать туры" />
+		</Items>
+	</Group>
+</Resources>

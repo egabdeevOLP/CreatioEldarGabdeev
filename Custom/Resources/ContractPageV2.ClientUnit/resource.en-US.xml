@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.AmountTip.Caption" Value="Message to user 1" />
+			<Item Name="LocalizableStrings.AmountTip.Value" Value="Total contract amount. If the contract is created based on an order, the field becomes non-editable and is calculated as a total amount of products in the contract. The products are copied to the contract from the order.&#xA;The field is editable, if the contract is not connected to an order&#xA;&lt;a href=&quot;#&quot; data-context-help-id=&quot;1582&quot; &gt;Read more&lt;/a&gt;" />
+			<Item Name="LocalizableStrings.ChangeOrdersCurrencyButtonCaption.Caption" Value="ChangeOrdersCurrencyButtonCaption" />
+			<Item Name="LocalizableStrings.ChangeOrdersCurrencyButtonCaption.Value" Value="Change order currency" />
+			<Item Name="LocalizableStrings.ContractPassportTab.Value" Value="Contract details" />
+			<Item Name="LocalizableStrings.ContractSumCaption.Value" Value="Amount" />
+			<Item Name="LocalizableStrings.ConvertOrdersCurrencyMessage.Caption" Value="ConvertOrdersCurrencyMessage" />
+			<Item Name="LocalizableStrings.ConvertOrdersCurrencyMessage.Value" Value="Order currency for this contract will be converted into the base currency. Continue?" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.FieldValidationMessage.Value" Value="Fields:" />
+			<Item Name="LocalizableStrings.LinkProductCaption.Value" Value="Which of the ordered products do you want to add to the contract {0}?" />
+			<Item Name="LocalizableStrings.OrderTip.Caption" Value="Message to user 1" />
+			<Item Name="LocalizableStrings.OrderTip.Value" Value="If the [Account] field is specified, only orders for the selected account are available" />
+			<Item Name="LocalizableStrings.QuestionAllCaption.Value" Value="Add all" />
+			<Item Name="LocalizableStrings.QuestionChoiceCaption.Value" Value="Select products" />
+			<Item Name="LocalizableStrings.StandardErrorCaption.Value" Value="Error filling column. See input rule settings." />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Follow the feed" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="You are now following feed: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Unfollow the feed" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="You have stopped following feed: {0}" />
+			<Item Name="LocalizableStrings.ValidationMessage.Value" Value="filled in violation of the established validation conditions." />
+		</Items>
+	</Group>
+</Resources>

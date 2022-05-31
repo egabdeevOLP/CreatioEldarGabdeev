@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.AmountTip.Value" Value="Valoare totala contract. Daca contractul este creat in baza unei comenzi, campul devine needitabil si este calculat ca valoare totala a produselor in contract. Produsele sunt copiate in contract din comanda.&#xA;Campul este editabil daca contractul nu este conexat unei comenzi.&#xA;&lt;a href=&quot;#&quot; data-context-help-id=&quot;1582&quot; &gt;Read more&lt;/a&gt;" />
+			<Item Name="LocalizableStrings.ChangeOrdersCurrencyButtonCaption.Value" Value="Modifica moneda comenzii" />
+			<Item Name="LocalizableStrings.ContractPassportTab.Value" Value="Detalii contract" />
+			<Item Name="LocalizableStrings.ContractSumCaption.Value" Value="Valoare" />
+			<Item Name="LocalizableStrings.ConvertOrdersCurrencyMessage.Value" Value="Moneda de comanda pentru acest contract va fi convertita in moneda baza. Continuati?" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Alimentare" />
+			<Item Name="LocalizableStrings.LinkProductCaption.Value" Value="Pe care din produsele comandate doriti sa le adaugati in contract {0}?" />
+			<Item Name="LocalizableStrings.OrderTip.Value" Value="Daca este specificat campul [Cont], numai comenzile pentru contul selectat sunt disponibile" />
+			<Item Name="LocalizableStrings.QuestionAllCaption.Value" Value="Adaugati tot" />
+			<Item Name="LocalizableStrings.QuestionChoiceCaption.Value" Value="Selctati produsele" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Urmati alimentarea" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="In acest moment urmati alimentarea: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Renuntati la urmarirea alimentarii" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Ati renuntat la urmarirea alimentarii: {0}" />
+		</Items>
+	</Group>
+</Resources>

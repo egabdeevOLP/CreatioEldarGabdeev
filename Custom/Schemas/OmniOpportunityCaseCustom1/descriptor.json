@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "bb0105fc-c69a-4a2a-8800-c94e8c2d7dd3",
+    "Name": "OmniOpportunityCaseCustom1",
+    "ModifiedOnUtc": "\/Date(1642419981000)\/",
+    "Parent": {
+      "UId": "296e261b-5dae-4102-b030-ac84ae63fe2a",
+      "Name": "OpportunityCase"
+    },
+    "ManagerName": "DcmSchemaManager",
+    "Caption": "Opportunity",
+    "DependsOn": []
+  }
+}
